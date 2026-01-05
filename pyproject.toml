@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = {file = "LICENSE"}
 authors = [
-    {name = "Harry O'Reilly", email = "harry@example.com"}
+    {name = "Harry O'Reilly", email = "harry@harryoreilly.com"}
 ]
 keywords = ["geometry", "optimization", "circles", "polygon", "packing", "pytorch", "geomancy"]
 classifiers = [
